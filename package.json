@@ -1,0 +1,16 @@
+{
+  "name": "VK Apps - NPM",
+  "version": "1.0.0",
+  "description": "VK Apps without React",
+  "main": "index.js",
+  "homepage": "https://github.com/tsivarev/vk-apps-npm",
+  "scripts": {
+    "start": "ws --spa src/index.html"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vkontakte/vkui-connect": "^1.0.0",
+    "local-web-server": "^2.5.4"
+  }
+}
