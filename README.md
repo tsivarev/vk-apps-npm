@@ -7,9 +7,16 @@
   $ npm install -g local-web-server
   ```
 
-2. Запустите пример
+2. Соберите проект
+
+
+  ```
+  $ npm run-script build
+  ```
+  
+3. Запустите пример
 
 
   ```
   $ npm start
-  ```
+  ```  
